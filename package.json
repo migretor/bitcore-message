@@ -20,10 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
-  },
-  "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "url": "https://github.com/skynxt/bitcore-message.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
